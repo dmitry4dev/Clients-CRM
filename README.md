@@ -16,9 +16,10 @@
 2. Открыть папку crm-backend в кодовом редакторе VSCode/Webstorm или любом другом и в корне проекта запустить терминал.
 3. В терминале ввести команду node index.js. После чего запустится база данных клиентов.
 4. Проект доступен на http://localhost:3000
+<hr>
 
 
-================ENGLISH================
+================**ENGLISH**================
 
 ### Customer database management system. Written in pure JavaScript. You can add/remove clients, edit their profiles. The system uses the REST CRUD API to communicate with the database
 <br><br>
