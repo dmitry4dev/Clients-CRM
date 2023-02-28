@@ -12,7 +12,7 @@
 
 ## **Использование**
 
-1. [Клонировать](https://github.com/dmitry4dev/React/archive/refs/heads/main.zip) git репозиторий.
+1. [Клонировать](https://github.com/dmitry4dev/Clients-CRM.git) git репозиторий.
 2. Открыть папку crm-backend в кодовом редакторе VSCode/Webstorm или любом другом и в корне проекта запустить терминал.
 3. В терминале ввести команду node index.js. После чего запустится база данных клиентов.
 4. Проект доступен на http://localhost:3000
@@ -35,7 +35,7 @@
 
 ## **Usage**
 
-1. [Clone](https://github.com/dmitry4dev/React/archive/refs/heads/main.zip) git repository.
+1. [Clone](https://github.com/dmitry4dev/Clients-CRM.git) git repository.
 2. Open crm-backend folder in VSCode/Webstorm or another code redactor and start terminal.
 3. In terminal enter command node index.js and clients database will be run.
 4. The project will be availible on http://localhost:3000
